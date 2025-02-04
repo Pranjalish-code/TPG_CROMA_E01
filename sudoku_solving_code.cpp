@@ -59,6 +59,5 @@ int main()
                  {0, 0, 0, 0, 0, 0, 0, 7, 4},
                  {0, 0, 5, 2, 0, 6, 3, 0, 0}
     };
-    if (!helper(s, 0, 0)) cout << "No solution exists!" << endl;
-    return 0;
+    helper(s,0,0);
 }
