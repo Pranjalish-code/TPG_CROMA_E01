@@ -19,8 +19,7 @@ GENERATE AND SAVE AN IMAGE OF THE SOLVED SUDOKU GRID
 
 
 DATASET:
-https://www.kaggle.com/datasets/tamzhiwen/1000-su
-doku-images
+https://www.kaggle.com/datasets/tamzhiwen/1000-sudoku-images
 
 
 SOLUTION:
